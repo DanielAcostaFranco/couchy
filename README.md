@@ -37,15 +37,25 @@ Nice to Have:
   
 
 Design Tokens
-  
-  Color Palette: #FFFFFF, #FABF0E, #007EA7, #003249, #051216
-  Typography: Roboto
-  Spacing Scale: (to be defined)
-  Border Radius & Shadows: (to be defined)
-  Breakpoints: 360, 768, 1024, 1280 px
-  Dark Theme: default (yes)
-  
+  Color Palette (roles):
+  Primary: #FABF0E (calls to action, highlights)
+  Primary-Contrast: #003249 (texto dentro de botones amarillos)
+  Background: #051216 (app background)
+  Surface: #003249 (cards/rows)
+  Accent: #007EA7 (chips, focus rings)
+  Text-Primary: #FFFFFF
+  Text-Secondary: #B3C2C8 (texto secundario sobre dark)
+  Typography: Roboto; Base size: 16px; Type Scale (ej. headings):
+  H1 ~ 32–36, H2 ~ 24–28, H3 ~ 20–22, Body 16, Caption 14.
+  Spacing Scale: (en px) 0, 4, 8, 12, 16, 24, 32, 40, 48.
+  (Base 8 con un paso de 4/12 para micro-ajustes.)
+  Border Radius: 8px (chips), 12px (cards), 20px (modals).
+  Shadow Elevations:
+  Level 1 (cards): sutil para separar del fondo.Level 2 (modals, dropdowns): más marcado.
+  Breakpoints: 360, 768, 1024, 1280 px.
+  Theme: Dark Theme por defecto; fondos oscuros, texto claro.
 
+  
 Architecture Overview
 
   Semantic HTML5 structure
