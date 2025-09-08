@@ -1,1 +1,23 @@
+id (string única, ej. “couchy-001”)
 
+title (string)
+
+type (string: “movie” o “series”)
+
+year (número: 4 dígitos)
+
+genres (lista de strings)
+
+rating (string, ej. “G”, “PG”, etc.)
+
+cast (lista de strings, ej. “Narrador”, “Hosts”)
+
+description (string, breve sinopsis)
+
+runtime (string, ej. “15 min”)
+
+thumbnail (string: ruta relativa a assets/images/...)
+
+banner (string: ruta relativa a assets/images/...)
+
+trailer (string: URL si aplica, o vacío)
