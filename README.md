@@ -54,6 +54,18 @@ Design Tokens
   Level 1 (cards): sutil para separar del fondo.Level 2 (modals, dropdowns): más marcado.
   Breakpoints: 360, 768, 1024, 1280 px.
   Theme: Dark Theme por defecto; fondos oscuros, texto claro.
+  Thumbnail Aspect Ratio: 16:9 (landscape)
+  Thumbnail Base Size: 640×360
+  Row/Card sizing por breakpoint (anchura × altura aprox.):
+  360 px: 160×90
+  768 px: 220×124
+  1024 px: 280×158
+  1280 px+: 320×180
+  Row Gutter: 8 px (mobile), 12 px (tablet), 16 px (desktop)
+  Row Padding: 12 px (mobile), 16 px (tablet), 24 px (desktop)
+  Card Border Radius: 12 px
+  Card Shadow (Elevation 1): sutil para destacar sobre fondo oscuro
+  Banners (Detail/Hero): 1280×720 o 1920×1080 (también 16:9)
 
   
 Architecture Overview
