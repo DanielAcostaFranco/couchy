@@ -11,6 +11,8 @@ Elevator Pitch:
 Live Demo (URL): 
 
 https://couchy.vercel.app/
+
+Under Construction
   
 
 Features (MVP):
@@ -24,6 +26,8 @@ Features (MVP):
   Basic Accessibility (Web Content Accessibility Guidelines, WCAG)
   Error Handling & Empty States
   Local JSON (JavaScript Object Notation) dataset
+
+Nice to Have: 
   Multiple User Profiles
   Continue Watching Section
   Recommendation System
@@ -70,6 +74,10 @@ Project Highlights
 
 Lessons Learned
 -----------------
+
+Content & Licensing
+
+  The content is my property and is intended only for non commercial use. 
 
 
   
