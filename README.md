@@ -10,7 +10,7 @@ Elevator Pitch:
 
 Live Demo (URL): 
 
-  -------
+https://couchy.vercel.app/
   
 
 Features (MVP):
